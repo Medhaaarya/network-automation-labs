@@ -1,14 +1,11 @@
 # network-automation-labs
 Python and networking automation practice projects
-
-# Network Automation Labs
-
 This repository contains beginner to intermediate Python automation projects focused on network engineering tasks.
 
-## Current Projects
+###### Current Projects
 - Cisco switch configuration backup automation using Netmiko
 
-## Skills Being Practiced
+###### Skills Being Practiced
 - Python
 - Netmiko
 - SSH Automation
